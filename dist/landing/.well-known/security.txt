@@ -1,6 +1,6 @@
 Acknowledgments: https://hackersbuenos.com/contributors
 Canonical: https://hackersbuenos.com/.well-known/security.txt
-Contact: mailto:security@hackersbuenos.com
+Contact: mailto:support@hackersbuenos.com
 Expires: Sat, 31 Dec 2029 23:59 +0000
 Encryption: https://hackersbuenos.com/.well-known/security.pub
 Preferred-Languages: en, es, zh
